@@ -1,4 +1,4 @@
-# Product-Buying-Patterns---Data-Science-project.
+# Product-Buying-Patterns--Data-Science-project.
 
 Project Description:
 Straumann USA, LLC, a global leader in esthetic dentistry based in Andover, MA, is dedicated to transforming lives by enhancing oral health, boosting self-confidence, and restoring self-esteem. This project aimed to identify customer buying patterns and create predictive models to forecast what products customers are likely to buy and which additional products they might be interested in bundling. The objective was to build confidence in the metrics of frequently bought products and predict what other products a customer might buy or be influenced to buy alongside their current bundle.
